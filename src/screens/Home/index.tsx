@@ -41,7 +41,7 @@ export function Home() {
 
       <Text style={styles.eventName}
       >
-        Nome do Evento
+        Campeonato de Counter Striker
       </Text>
 
       <Text
